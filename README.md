@@ -5,6 +5,14 @@ DIY Typewriter using Nextion Display and Thermal Printer
 **YOUTUBE VIDEO: https://youtu.be/ATPutFn6jfk**
 
 
+Links from the video:
+- Figma file: https://www.figma.com/community/file/1248969000121805478
+- Nextion Display Intelligent 5" 800x480: https://s.click.aliexpress.com/e/_Dc8R9tr
+- USB to TTL module: https://s.click.aliexpress.com/e/_DCLBg9b
+- Thermal Printer Video: https://youtu.be/KZXgMsD3tTw
+- Thermal Printer: https://s.click.aliexpress.com/e/_DmF7DpP
+
+
 ![THUMB_diy_typewriter](https://github.com/upiir/diy_typewriter_nextion_display/assets/117754156/f346f663-5d79-4510-8b3e-ac8449b92894)
 
 
