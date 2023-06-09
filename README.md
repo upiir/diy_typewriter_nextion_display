@@ -16,6 +16,12 @@ Links from the video:
 ![THUMB_diy_typewriter](https://github.com/upiir/diy_typewriter_nextion_display/assets/117754156/f346f663-5d79-4510-8b3e-ac8449b92894)
 
 
+
+Small animation:
+![diy_typewriter_animation](https://github.com/upiir/diy_typewriter_nextion_display/assets/117754156/7e49308e-3947-4035-9b96-46bf169fb966)
+
+
+
 Screenshots from the video:
 ![CAMTASIA_nextion_printer (Time 0_00_23;10)](https://github.com/upiir/diy_typewriter_nextion_display/assets/117754156/c6c59bbb-025f-4e18-af3e-90c2faec4ca7)
 ![CAMTASIA_nextion_printer (Time 0_01_00;11)](https://github.com/upiir/diy_typewriter_nextion_display/assets/117754156/c482adee-5669-4fb0-8634-fb908eb0ffcf)
