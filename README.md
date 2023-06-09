@@ -13,6 +13,11 @@ Links from the video:
 - Thermal Printer: https://s.click.aliexpress.com/e/_DmF7DpP
 
 
+
+Big thanks goes to PCBWay for sponsoring the video. If you ever need PCBs and you use this link - https://www.pcbway.com/setinvite.aspx?inviteid=572577 - you will get 10 PCBs for free, only paying for shipping. Thank you PCBWay!
+
+
+
 ![THUMB_diy_typewriter](https://github.com/upiir/diy_typewriter_nextion_display/assets/117754156/f346f663-5d79-4510-8b3e-ac8449b92894)
 
 
