@@ -18,6 +18,7 @@ Links from the video:
 
 
 Small animation:
+
 ![diy_typewriter_animation](https://github.com/upiir/diy_typewriter_nextion_display/assets/117754156/7e49308e-3947-4035-9b96-46bf169fb966)
 
 
